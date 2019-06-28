@@ -50,4 +50,4 @@ The Administrator has the most commands. Below here you can find some examples o
 ```!unmute @johndoe#9999``` This command will unmute the mentioned user.
 
 # Creator of the bot
-I (DutchCrazyGamer) am the only creator of this bot. Some code are from tutorials.
+I (DutchCrazyGamer) am the only creator of this bot. Some code came from tutorials.
