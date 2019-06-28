@@ -31,11 +31,11 @@ The user can execute a few commands. Below here you can find some examples of th
 
 The Administrator has the most commands. Below here you can find some examples of those commands.
 
-```!kick @johndoe#9999 spam``` This command kicks the user from the server. The bot will send a PM to the kicked user containing the reason for the kick.
+```!kick @johndoe#9999 spam``` This command kicks the user from the server. There will be an embed posted in the #incidents channel. The bot will send a PM to the kicked user containing the reason for the kick.
 
-```!ban @johndoe#9999 spam``` This command bans the user from the server. The bot will send a PM to the banned user containing the reason for the ban.
+```!ban @johndoe#9999 spam``` This command bans the user from the server.  There will be an embed posted in the #incidents channel. The bot will send a PM to the banned user containing the reason for the ban.
 
-```!unban @johndoe#9999 sorry``` This command unbans the user from the server.(Somehow you cant acces the banned user so he has to find an invite link himself somehow)
+```!unban @johndoe#9999 sorry``` This command unbans the user from the server.  There will be an embed posted in the #incidents channel.(Somehow you cant acces the banned user so he has to find an invite link himself somehow)
 
 ```!tempmute @johndoe#9999 1min spam``` This command temporarily mutes the user on the server after a period of time the mute role will be removed.
 
