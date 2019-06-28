@@ -41,7 +41,7 @@ The Administrator has the most commands. Below here you can find some examples o
 
 ```!warn @johndoe#9999 spam``` This command warns the user and the bot sends him a DM.
 
-```!clear 5``` This command deletes the last 5 messages.
+```!clear 5``` This command deletes the last 5 messages.(including the command message)
 
 ```!deletemessages dumb``` This command deletes all the messages containing the word (in this case dumb). (This might be a little buggy somehow).
 
