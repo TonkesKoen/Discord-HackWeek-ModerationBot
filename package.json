@@ -1,0 +1,15 @@
+{
+  "name": "dutchybot",
+  "version": "1.0.0",
+  "description": "My first discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DutchCrazyGamer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "millisecond": "^0.1.2"
+  }
+}

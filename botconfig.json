@@ -1,0 +1,6 @@
+{
+    "token": "The token of your discord bot goes here ...",
+    "prefix": "!",
+
+    "owner": "Owner name goes here ..."
+}
