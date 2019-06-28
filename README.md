@@ -25,6 +25,8 @@ The user can execute a few commands. Below here you can find some examples of th
 
 ```!help``` This command shows all the commands.
 
+```!warnlevel @johndoe#9999``` This command shows the number of warnings for a user.
+
 # Moderator/Administrator commands
 
 The Administrator has the most commands. Below here you can find some examples of those commands.
@@ -44,6 +46,8 @@ The Administrator has the most commands. Below here you can find some examples o
 ```!deletemessages dumb``` This command deletes all the messages containing the word (in this case dumb). (This might be a little buggy somehow).
 
 ```!mute @johndoe#9999 spam``` This command permanenlty mutes the user. The user can contact the owner if he does not agree with it.
+
+```!unmute @johndoe#9999``` This command will unmute the mentioned user.
 
 # Creator of the bot
 I (DutchCrazyGamer) am the only creator of this bot. Some code are from tutorials.
